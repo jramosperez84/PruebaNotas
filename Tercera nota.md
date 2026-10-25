@@ -1,3 +1,3 @@
 # Tercera
 
-[[Primera nota]]
+[Primera nota](Primera%20nota.md)
