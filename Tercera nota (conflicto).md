@@ -1,3 +1,0 @@
-# Tercera
-
-[[Primera nota]]
